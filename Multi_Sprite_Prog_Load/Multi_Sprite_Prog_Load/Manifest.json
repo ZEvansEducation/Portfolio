@@ -1,0 +1,10 @@
+{
+  "Name": "Multi_Sprite_Prog_Load",
+  "Author": "Reven",
+  "Version": "1.0.0",
+  "Description": "Draw Loading Multiple Sprites",
+  "UniqueID": "Reven.Multi_Sprite_Prog_Load",
+  "EntryDll": "Multi_Sprite_Prog_Load.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
